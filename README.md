@@ -19,6 +19,9 @@ $ git checkout <branch>
 $ git checkout -b <branch>
 $ git merge <branch>
 $ git branch -d emergency-fix
+$ git remote add origin <repo>
+$ git push --set-upstream origin master
+
 
 
 
