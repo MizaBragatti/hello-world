@@ -16,3 +16,4 @@ $ git help --all
 $ git branch 
 $ git branch <branch>
 $ git checkout <branch>
+$ git checkout -b <branch>
