@@ -1,7 +1,8 @@
 # Comandos:
 $ git status
+$ git status --short
 $ git add
-$ git add --all
+$ git add --all / -A / .
 
 
 
