@@ -10,6 +10,7 @@ $ git add --all / -A / .
 $ git commit -m "message"
 $ git commit -a -m "message"
 $ git log
+$ git log origin/master
 $ git command -help
 $ git help --all
     SHIFT + G / q
@@ -21,7 +22,8 @@ $ git merge <branch>
 $ git branch -d emergency-fix
 $ git remote add origin <repo>
 $ git push --set-upstream origin master
-
+$ git fetch origin
+$ git diff origin/master
 
 
 
