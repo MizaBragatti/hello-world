@@ -1,8 +1,17 @@
 body {
     background-color: lightblue;
+<<<<<<< HEAD
 }
 
 h1 {
     color: navy;
     margin-left: 20px;
 }
+=======
+    }
+    
+    h1 {
+    color: navy;
+    margin-left: 20px;
+    }
+>>>>>>> 3376c7a19a4be429c09a9ecfe2845086bd10c2d3
