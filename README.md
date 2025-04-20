@@ -24,6 +24,10 @@ $ git remote add origin <repo>
 $ git push --set-upstream origin master
 $ git fetch origin
 $ git diff origin/master
+<<<<<<< HEAD
 
 
 
+
+=======
+>>>>>>> origin/master
