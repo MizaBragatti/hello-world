@@ -15,6 +15,8 @@ $ git command -help
 $ git help --all
     SHIFT + G / q
 $ git branch 
+$ git branch -a
+$ git branch -r
 $ git branch <branch>
 $ git checkout <branch>
 $ git checkout -b <branch>
@@ -26,4 +28,5 @@ $ git push --set-upstream origin master
 $ git push origin
 $ git fetch origin
 $ git diff origin/master
+$ git pull
 $ git pull origin
