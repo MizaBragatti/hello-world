@@ -23,13 +23,7 @@ $ git merge origin/master
 $ git branch -d emergency-fix
 $ git remote add origin <repo>
 $ git push --set-upstream origin master
+$ git push origin
 $ git fetch origin
 $ git diff origin/master
 $ git pull origin
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> origin/master
